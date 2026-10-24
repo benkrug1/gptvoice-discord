@@ -1803,7 +1803,6 @@ dependencies = [
  "tauri-plugin-log",
  "tokio",
  "tokio-tungstenite 0.26.2",
- "windows-sys 0.61.2",
 ]
 
 [[package]]
